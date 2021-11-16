@@ -9340,7 +9340,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Local;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Enterprise;
 				CODE_SIGN_ENTITLEMENTS = "$(SRCROOT)/Client/Entitlements/Enterprise.entitlements";
 				DEVELOPMENT_ASSET_PATHS = "Client/Frontend/Preview\\ Content";
 				ENABLE_BITCODE = NO;
@@ -10016,7 +10016,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Local;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "$(SRCROOT)/Client/Entitlements/Release.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
@@ -12600,7 +12600,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Local;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "$(SRCROOT)/Client/Entitlements/Release (AppStore).entitlements";
 				DEVELOPMENT_ASSET_PATHS = "Client/Frontend/Preview\\ Content";
 				ENABLE_BITCODE = NO;
@@ -12839,7 +12839,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Local;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Dev;
 				CODE_SIGN_ENTITLEMENTS = "$(SRCROOT)/Client/Entitlements/Dev.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "Client/Frontend/Preview\\ Content";
@@ -13143,7 +13143,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Local;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Beta;
 				CODE_SIGN_ENTITLEMENTS = "$(SRCROOT)/Client/Entitlements/Beta.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "Client/Frontend/Preview\\ Content";
